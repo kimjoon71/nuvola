@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /mp3/
+Disallow: /streaming/
+Disallow: /etc/
+Disallow: /images/
+
+
+sitemap:http://www.nuvola.kr/sitemap.xml
